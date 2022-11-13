@@ -1,0 +1,66 @@
+1 Necrobite (m15) 105
+1 Tyrant's Machine (m15) 238
+1 Borderland Marauder (m15) 131
+2 Divine Verdict (m15) 271
+1 Flesh to Dust (m15) 98
+1 Inspired Charge (m15) 272
+1 Accursed Spirit (m15) 85
+1 Quickling (m15) 76
+1 Peel from Reality (m15) 74
+1 Raise the Alarm (m15) 26
+1 Centaur Courser (m15) 282
+1 Crippling Blight (m15) 92
+1 Reclamation Sage (m15) 194
+1 Roaring Primadox (m15) 196
+1 Shadowcloak Vampire (m15) 113
+1 Undergrowth Scavenger (m15) 204
+1 Oppressive Rays (m15) 21
+1 Crowd's Favor (m15) 138
+1 Rotfeaster Maggot (m15) 112
+1 Serra Angel (m15) 273
+2 Frost Lynx (m15) 55
+1 Lava Axe (m15) 154
+1 Negate (m15) 71
+1 Aegis Angel (m15) 270
+1 Cone of Flame (m15) 137
+1 Wall of Limbs (m15) 121
+1 Wall of Fire (m15) 167
+1 Into the Void (m15) 60
+1 Mind Rot (m15) 104
+1 Covenant of Blood (m15) 91
+1 Juggernaut (m15) 220
+1 Frenzied Goblin (m15) 142
+1 Ensoul Artifact (m15) 54
+2 Shaman of Spring (m15) 199
+1 Charging Rhino (m15) 171
+1 Seismic Strike (m15) 280
+3 Sign in Blood (m15) 114
+1 Kapsho Kitefins (m15) 66
+1 Siege Wurm (m15) 200
+1 Jace's Ingenuity (m15) 63
+1 Sacred Armory (m15) 228
+1 Shivan Dragon (m15) 281
+1 Sengir Vampire (m15) 277
+1 Titanic Growth (m15) 203
+1 Garruk's Packleader (m15) 283
+1 Child of Night (m15) 90
+1 Nightmare (m15) 276
+1 Mahamoti Djinn (m15) 275
+1 Walking Corpse (m15) 278
+1 Terra Stomper (m15) 284
+1 Krenko's Enforcer (m15) 152
+1 Cancel (m15) 274
+2 Runeclaw Bear (m15) 197
+1 Furnace Whelp (m15) 279
+1 Unmake the Graves (m15) 120
+2 Divination (m15) 52
+2 Elvish Mystic (m15) 173
+1 Shrapnel Blast (m15) 161
+1 Aeronaut Tinkerer (m15) 43
+1 Aggressive Mining (m15) 127
+1 Bronze Sable (m15) 214
+1 Welkin Tern (m15) 84
+1 Scrapyard Mongrel (m15) 160
+1 Ornithopter (m15) 223
+1 Coral Barrier (m15) 49
+1 Kinsbaile Skirmisher (m15) 16
